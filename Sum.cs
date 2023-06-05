@@ -4,7 +4,7 @@ public class Sum{
         int a = 10;
         int b = 20;
 
-        Console.WriteLine(a+b);
+        Console.WriteLine("The sum is " + a+b);
         Console.ReadLine();
     }
 }
